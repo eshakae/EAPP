@@ -16,7 +16,7 @@ $result = $conn->query($query);
 <head>
     <meta charset="UTF-8">
     <title>Admin - Daftar Pendaftar</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
     <body>
         <h2>Daftar Pendaftar</h2>
