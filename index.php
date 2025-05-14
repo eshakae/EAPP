@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Pendaftaran Ekskul</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <style>
         body {
             font-family: 'Segoe UI', sans-serif;
@@ -95,7 +95,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="file/logo.png" alt="Logo">
+        <img src="logo.png" alt="Logo">
 
         <h2>Selamat Datang di EAPP!</h2>
         <p>EAPP atau Extracurricular Aplication adalah Aplikasi untuk membantu siswa/siswi SMKN 1 Jakarta mendaftarkan diri ke ekstrakurikuler secara mudah dan cepat.</p>
